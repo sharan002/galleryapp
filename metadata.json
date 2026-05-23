@@ -1,0 +1,6 @@
+{
+  "name": "Family Gallery",
+  "description": "A collaborative, shared backend photo gallery app for family members with automatic syncing, local photo caching, and offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
